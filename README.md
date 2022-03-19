@@ -1,4 +1,4 @@
-# BankaOtomasyonu
+# Banka Otomasyonu
 1. Yeni Müşteri Ekleme; Banka işlemlerini yapacak müşterilerin sisteme eklenmesi işlemi yapılacaktır. Aynı müşteri numarası başka müşteriler tarafından kullanılamayacaktır. Ayrıca farklı ayrıcalıklara sahip olan 2 tip müşteri bulunmaktadır. Müşteriler; kurumsal müşteri veya bireysel müşteri olabilmektedir.
 2. Hesap Açtırma;
 • Bir müşterinin birden fazla hesabı olabilir.
